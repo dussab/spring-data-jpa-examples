@@ -7,7 +7,7 @@
 	<parent>
 		<groupId>org.springframework.data.jpa.examples</groupId>
 		<artifactId>spring-data-jpa-examples-parent</artifactId>
-		<version>1.0.0.BUILD-SNAPSHOT</version>
+		<version>1.0.1.RELEASE</version>
 		<relativePath>../pom.xml</relativePath>
 	</parent>
 
